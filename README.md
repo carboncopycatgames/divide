@@ -5,7 +5,7 @@ We used as a base [tesseract](http://tesseract.gg/)
 
 To use this source you need the binaries/media at [gamejolt](https://gamejolt.com/games/cagayanbattles/399759).
 
-The game was made by:
+The game was made by:<br>
 -Agustin: 3D, Music and ambient
 -Sebastian: code, research, everything else.
 
