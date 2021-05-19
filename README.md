@@ -10,4 +10,4 @@ The game was made by:<br>
 -Sebastian: code, research, everything else.
 
 The ownership of the game, name and models, remains with the authors.
-If you want to use the assets, please contact us at [our email](contact@playvictorious.net) or [discord](https://discord.gg/qgxJ4UR)
+If you want to use the assets, please contact us at [our email](carboncopycatgames@gmail.com) or [discord](https://discord.gg/qgxJ4UR)
